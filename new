@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>楽天API申請用サイト</title>
+</head>
+<body>
+    <h1>楽天APIの申請用サイト</h1>
+    <p>このページは楽天APIの申請のために作成されました。</p>
+</body>
+</html>
